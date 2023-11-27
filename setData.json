@@ -1,0 +1,13 @@
+{
+    "user_id": "",
+    "bot_token": "",
+    "instructions":[
+        {"instruction":"將我加入頻道: !join\n"},
+        {"instruction":"將我踢出頻道: !leave\n"},
+        {"instruction":"關閉我: !shutdown\n"},
+        {"instruction":"播放音樂或加入到列表: !play 網址\n"},
+        {"instruction":"暫停: !stop\n"},
+        {"instruction":"繼續: !resume\n"},
+        {"instruction":"下一首音樂: !skip\n"}
+    ]
+}
